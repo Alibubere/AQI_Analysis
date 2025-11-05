@@ -158,7 +158,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- Dataset source: [Dataset Link/Source]
+- Dataset source: [Dataset](dataset.txt)
 - Thanks to BSPCB and WBPCB for air quality monitoring data
 - Inspiration from environmental data analysis projects
 - Indian air quality monitoring authorities
